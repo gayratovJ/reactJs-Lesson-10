@@ -1,0 +1,7 @@
+.admin-layout {
+  height: 100vh;
+  .ant-layout-content{
+    height: calc(100vh - 64px);
+    overflow: auto;
+  }
+}
